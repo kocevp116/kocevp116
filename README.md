@@ -6,7 +6,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" alt="Coding gif">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="200px" alt="Coding gif">
 </p>
 
 ---
