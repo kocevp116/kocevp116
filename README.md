@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**kocevp116/kocevp116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">AI • Data • Backend Engineer from North Macedonia 🇲🇰</h3>
 
-Here are some ideas to get you started:
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="60%" alt="Coding gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🧠 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Backend Development**
+- 💻 Skilled in `Python`, `Java`, `SQL`, `Docker`, `Kubernetes`, `REST APIs`
+- 📈 Experienced in building **scalable systems** and deploying **ML models**
+- 🌍 Based in **Skopje, North Macedonia**
+- ⚡ Fun fact: I love automating things and making data dance
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+#### 🧰 Frameworks & Tools  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+#### ☁️ Cloud & Data  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting! Feel free to check out my projects and reach out for collaboration!*
+
