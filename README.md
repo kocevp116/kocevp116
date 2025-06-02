@@ -2,7 +2,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Petar Kocev</h1>
-<h3 align="center">AI • Data • Backend Engineer from North Macedonia 🇲🇰</h3>
+<h3 align="center">AI • Data • Backend Engineer from North Macedonia</h3>
 
 <!-- Profile Banner -->
 <p align="center">
